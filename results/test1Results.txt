@@ -1,0 +1,22 @@
+Before processCell
+
+Board(Rows: 8, Columns: 8)
+BBBBBBBB
+YYYYYYYR
+BBBBBBBB
+GGGGGGGG
+BBBBBBBB
+BBBBBBBB
+RRRRRRRR
+........
+
+After processCell
+Board(Rows: 8, Columns: 8)
+BBBBBBBB
+YYYYYYYR
+BBBBBBBB
+GGGGGGGG
+B...BBBB
+RRRRRRRR
+........
+........
